@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Gaurav-Hero
 - 👀 I’m interested in Full-Stack Developmet
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Fronted and backend as well
+- 🌱 I’m currently working as an FullStack Web Developer intern. 
+- 💞️Gaining helpfull insights through working in a team .
 - 📫 Gmail - gs236934@gmail.com
 - 📫 Linked In -  https://www.linkedin.com/in/gaurav-sharma-3a2104270/
-- 😄 Pronouns: I dont Know
-- ⚡ Fun fact: World is not really what you think
+- 😄 Pronouns:  He
+- ⚡ Fun fact: AI is good.
 
 <!---
 Gaurav-Hero/Gaurav-Hero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
