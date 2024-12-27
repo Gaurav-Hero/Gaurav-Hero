@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate **Backend Web Developer** with a 
 
 ## 📈 GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav1234&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Hero&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
