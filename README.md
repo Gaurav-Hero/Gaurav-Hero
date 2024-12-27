@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a passionate **Backend Web Developer** with a 
 
 ## 🧑‍💻 About Me
 
-- 🎓 **2nd-year BCA student** at a Tier-3 college  
-- 🌱 Currently learning **MERN Stack** and diving deep into **Backend Development**  
-- 🛠️ Working on various projects like **Hotel Booking System**, **Virtual Study Group**, **Task Management Systems**, and more!  
-- 🧩 Exploring **IoT**, **Technical Writing**, and **WebSocket**  
+- 🎓 **2nd-year BCA student** at **GLA University Mathura**.  
+- 🌱 Currently diving deep into **Backend Development**  
+- 🛠️ Working on various projects like **Task Management Systems**, and more!  
+- 🧩 Exploring **Backend** , **Microservices** and **Cloud**  
 
 ---
 
