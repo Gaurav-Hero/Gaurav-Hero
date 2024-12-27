@@ -53,31 +53,16 @@ Welcome to my GitHub profile! I'm a passionate **Backend Web Developer** with a 
 
 ## 📢 Current Projects
 
-### 🔧 [Hotel Booking System](https://github.com/gaurav1234/hotel-booking-system)
-A full-stack hotel booking system that features room availability search, booking management, payment handling, and OTP-based authentication.
-
 ### 🗂️ [Task Management System](https://github.com/gaurav1234/task-management-cli)
 A CLI-based task management system for organizing and tracking tasks. Currently improving with **Inquirer.js** for better user interaction.
-
-### 📚 [Virtual Study Group System](https://github.com/gaurav1234/virtual-study-group)
-A system designed to create study groups and manage educational sessions. Aiming to build a strong community of learners!
-
----
-
-## 📝 Blog & Tutorials
-
-I often write about my learning experiences, backend development tips, and project walkthroughs. Check out some of my latest blog posts:
-
-- [**Building a Hotel Booking System with Node.js**](https://medium.com/@gaurav1234/building-a-hotel-booking-system-with-node-js-d7fce459a34d)
-- [**Getting Started with JWT Authentication in Express**](https://medium.com/@gaurav1234/getting-started-with-jwt-authentication-in-express-ea456789c50f)
 
 ---
 
 ## 📞 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/gaurav1234)  
-- [Twitter](https://twitter.com/gaurav1234)  
-- [Email](mailto:gaurav1234@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/gaurav1234](https://www.linkedin.com/in/gauravsharmabhardwaj/))  
+- [Twitter]([twitter.com/gaurav1234](https://x.com/Gaurav_Her0))  
+- [Email](mailto:gs236934@gmail.com)
 
 ---
 
@@ -86,7 +71,7 @@ I often write about my learning experiences, backend development tips, and proje
 - 💡 Master backend technologies like Node.js, Express, and MongoDB
 - 🌍 Contribute to open-source projects
 - 🚀 Build a real-time **WebSocket** chat application
-- 📚 Improve my knowledge of **Operating Systems** and **IoT**
+- 📚 Improve my knowledge of **Backend ** and **Cloud Technologies**
 
 ---
 
